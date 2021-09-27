@@ -61,19 +61,27 @@
 		1F0C961E2701FDCE00B9874E /* SnoozeInObjC */ = {
 			isa = PBXGroup;
 			children = (
-				1F0C961F2701FDCE00B9874E /* AppDelegate.h */,
-				1F0C96202701FDCE00B9874E /* AppDelegate.m */,
-				1F0C96222701FDCE00B9874E /* SceneDelegate.h */,
-				1F0C96232701FDCE00B9874E /* SceneDelegate.m */,
+				1F0C963A2701FF4600B9874E /* Resources */,
+				1F0C96282701FDCE00B9874E /* Main.storyboard */,
 				1F0C96252701FDCE00B9874E /* ViewController.h */,
 				1F0C96262701FDCE00B9874E /* ViewController.m */,
-				1F0C96282701FDCE00B9874E /* Main.storyboard */,
 				1F0C962B2701FDCF00B9874E /* Assets.xcassets */,
 				1F0C962D2701FDCF00B9874E /* LaunchScreen.storyboard */,
 				1F0C96302701FDCF00B9874E /* Info.plist */,
 				1F0C96312701FDCF00B9874E /* main.m */,
 			);
 			path = SnoozeInObjC;
+			sourceTree = "<group>";
+		};
+		1F0C963A2701FF4600B9874E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1F0C961F2701FDCE00B9874E /* AppDelegate.h */,
+				1F0C96202701FDCE00B9874E /* AppDelegate.m */,
+				1F0C96222701FDCE00B9874E /* SceneDelegate.h */,
+				1F0C96232701FDCE00B9874E /* SceneDelegate.m */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
